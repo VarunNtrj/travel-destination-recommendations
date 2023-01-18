@@ -2,6 +2,6 @@
 
 This app is created using ReactJs with CodeSandbox 
 
-(https://8u06x0.csb.app/)
+(https://vqyig2.csb.app/)/)
 
 ![Emoji](/travel_dest.png)
